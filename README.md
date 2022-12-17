@@ -1,4 +1,4 @@
-- 👋 Hi, my name @phadeline and I'm a software engineer who fell in love with coding in the summer of 2022. I was always intersted in coding, but I 
+- 👋 Hi, my name is @phadeline and I'm a software engineer who fell in love with coding in the summer of 2022. I was always intersted in coding, but I 
 always thought that it wasn't meant for me. But in the summer of 2022, I decided to take a leap of faith and started teaching myself HTML, CSS and 
 Javascript. Eventually, I enrolled in Rutgers Coding Fullstack Coding Bootcamp and will graduate in April 2023. 
 
