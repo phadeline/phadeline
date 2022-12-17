@@ -3,8 +3,7 @@
 [![License](https://img.shields.io/badge/License-Miss_Busy_Bee_2.0-blue.svg)]
 
 
-- 👋 Hi, my name is @phadeline and I'm a software engineer who fell in love with coding in the summer of 2022. I was always interested in coding, but I 
-always thought that it wasn't meant for me because I didn't see a lot of black female engineers. But in the summer of 2022, I decided to take a leap of faith and started teaching myself HTML, CSS and Javascript. Eventually, I enrolled in Rutgers Coding Fullstack Coding Bootcamp and will graduate in April 2023. 
+- 👋 Hi, my name is @phadeline and I'm a software engineer who fell in love :sparkling_heart: with coding in the summer of 2022. I was always interested in coding, but I always thought that it wasn't meant for me because I didn't see a lot of black female engineers 🤷‍♀️:. But in the summer of 2022, I decided to take a leap of faith 🙏: and started teaching myself HTML, CSS and Javascript 🖥️: 💻:. Eventually, I enrolled in Rutgers Coding Fullstack Coding Bootcamp and will graduate in April 2023. 
 
 - 👀 I’m interested in hiking :hiking_boot: and volleyball :volleyball:. 
 - :walking_woman: :national_park: I enjoy taking walks at the park and binge watching netflix shows :tv:. 
