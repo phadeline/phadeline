@@ -5,7 +5,7 @@
 
 - 👋 Hi, my name is @phadeline and I'm a software engineer who fell in love :sparkling_heart: with coding in the summer of 2022. I was always interested in coding, but I always thought that it wasn't meant for me because I didn't see a lot of black female engineers 🤷‍♀️. But in the summer of 2022, I decided to take a leap of faith 🙏 and started teaching myself HTML, CSS and Javascript 🖥️ 💻. Eventually, I enrolled in Rutgers Coding Fullstack Coding Bootcamp and will graduate in April 2023. 
 
-- 👀 I’m interested in hiking 🥾 and volleyball 🏐:. 
+- 👀 I’m interested in hiking 🥾 and volleyball 🏐. 
 - 🚶‍♀️ 🏞️ I enjoy taking walks at the park and binge watching netflix shows 📺. 
 - 🏊‍♀️ I'm taking swimming classes and hope one day to be able to go the beach 🏖️ and actually swim in the ocean instead of just sticking my toes in the water. I also, want to go snorkeling one day 🤞.
  
