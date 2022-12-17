@@ -1,6 +1,6 @@
 # Hello and Welcome to my Github!
 
-[![License](https://img.shields.io/badge/License-Busy-Bee_2.0-blue.svg)]
+[![License](https://img.shields.io/badge/License-Busy_Bee_2.0-blue.svg)]
 
 
 - 👋 Hi, my name is @phadeline and I'm a software engineer who fell in love with coding in the summer of 2022. I was always interested in coding, but I 
