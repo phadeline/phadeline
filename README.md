@@ -1,4 +1,4 @@
-## Hello and Welcome to my Github!
+# Hello and Welcome to my Github!
 
 
 - 👋 Hi, my name is @phadeline and I'm a software engineer who fell in love with coding in the summer of 2022. I was always interested in coding, but I 
