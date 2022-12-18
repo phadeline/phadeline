@@ -15,6 +15,7 @@ future, I want to expand my skills and learn other languages like Python and Jav
 
 
 - 📫 How to reach me: E-mail: phadelinee@gmail.com
+- Portfolio: https://phadeline.github.io/Phadeline-Evra-portfolio/
 
 <!---
 phadeline/phadeline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
